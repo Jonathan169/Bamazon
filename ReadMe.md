@@ -27,4 +27,4 @@ Only one video for customer | ![manager gif](/gifs/manager2.gif)
 
 * link to a video of me showing off how Manager works
 
-[![Watch the video](/gifs/manager2.gif)](https://youtu.be/OYG6FQLfQwA)
+[![Watch the video](/gifs/manager.gif)](https://youtu.be/OYG6FQLfQwA)
