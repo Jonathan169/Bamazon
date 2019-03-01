@@ -13,7 +13,7 @@ The following is the syntax and a GIF of how to use Bamazon, if the gif is too s
 ------------ | ------------- 
 search-song song name  | search-concert artist 
 ![customer gif](/gifs/customer.gif) | ![manager gif](/gifs/manager.gif) 
------------- | ![manager gif](/gifs/manager2.gif) 
+Only one video for customer | ![manager gif](/gifs/manager2.gif) 
  
  
  
@@ -21,6 +21,10 @@ search-song song name  | search-concert artist
  
 
 
- heres the link to a video of me showing off how it works
+* link to a video of me showing off how Customer works
 
-[![Watch the video](/gifs/manager2.gif)](https://github.com/Jonathan169/Bamazon/blob/master/gifs/Feb%2028%2C%202019%207_18%20PM.webm)
+[![Watch the video](/gifs/manager2.gif)](https://youtu.be/IAktRtENbAE)
+
+* link to a video of me showing off how Manager works
+
+[![Watch the video](/gifs/manager2.gif)](https://youtu.be/OYG6FQLfQwA
