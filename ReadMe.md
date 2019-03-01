@@ -5,7 +5,7 @@ a Manager view for you to edit whats for sale
 
  * first you will need to run a npm install to make this work, but you already know that
  
- * Next you need to have a working sql workbench and server
+ * Next you need to have a working sql workbench and server I left a copy of the SQL code in the file name sql.txt
  
 The following is the syntax and a GIF of how to use Bamazon, if the gif is too small theres a link at the bottom to the Full video
  
